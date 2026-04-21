@@ -1,5 +1,4 @@
 # Real-Time GPU Image Filter Application
-
 ## Features
 - CUDA Accelerated Filters
 - Real-Time Processing
